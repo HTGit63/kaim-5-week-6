@@ -58,12 +58,6 @@ A Retrieval-Augmented Generation (RAG) chatbot for CrediTrust Financial that tra
    pip install -r requirements.txt
    ```
 
-4. **(Optional) Add a `.env` file** for API keys or configs:
-   ```
-   # .env
-   OPENAI_API_KEY=sk-...
-   ```
-
 ---
 
 ## 🚀 Running Each Stage
